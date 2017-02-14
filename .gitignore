@@ -1,0 +1,32 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+sentenceService/src/main/resources/static/
+sentenceService/src/main/resources/templates/
+subjectService/src/main/resources/static/
+subjectService/src/main/resources/templates/
+verbService/src/main/resources/static/
+verbService/src/main/resources/templates/
+wordService/src/main/resources/static/
+wordService/src/main/resources/templates/

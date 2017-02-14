@@ -12,12 +12,8 @@
         <module>cloudConfig</module>
         <module>cloudConfigClient</module>
         <module>eurekaServer</module>
-        <module>subjectService</module>
-        <module>verbService</module>
-        <module>nounService</module>
-        <module>articleService</module>
-        <module>adjectiveService</module>
         <module>sentenceService</module>
+        <module>wordService</module>
     </modules>
 
 </project>
